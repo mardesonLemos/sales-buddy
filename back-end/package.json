@@ -1,0 +1,19 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "html-pdf": "^3.0.1",
+    "knex": "^0.95.14",
+    "nodemailer": "^6.7.2",
+    "sqlite3": "^5.0.2"
+  }
+}
